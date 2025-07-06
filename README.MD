@@ -5,3 +5,5 @@ O arquivo readme utiliza a notaçao markdowm, <h4> mas támbem e possivel utiliz
 <img src="anabela.png"/>
 <hr>
 <img src="tech.png"/>
+<hr>
+<img src="4.png"/>
