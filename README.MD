@@ -13,5 +13,8 @@ O arquivo readme utiliza a notaçao markdowm, <h4> mas támbem e possivel utiliz
 <img src="6.png"/>
 <hr>
 <img src="7.png"/>
+<hr>
 <img src="me.png"/>
+<hr>
 <img src="zoom.png"/>
+<hr>
